@@ -1,8 +1,9 @@
 # Semiologie
 
 ## Description
-Bienvenue sur le dépôt GitHub de notre projet de groupe réalisé pendant notre formation en Data Analyse avec la World code School. Ce projet a été mené dans le cadre de notre cursus, et il porte sur ...???....
-
+Bienvenue sur mon depot GitHub de l'analyse d'un dataSet d'entrainement pour un projet commun à venir.
+Nous nous partagerons l'analyse de differentes maladies.
+Je me concentrerais pour l'instant sur le diabète.
 
 ## Table des matières
 - [Sources](#sources)
